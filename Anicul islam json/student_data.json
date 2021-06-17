@@ -1,0 +1,44 @@
+{
+"student":[
+    {
+        "name":"Tanmoy paul",
+        "middleName":"null",
+        "age":31,
+        "cgpa":3.44,
+        "isRegistered":"true",
+        "languages":["Bangla","English","Hindi"],
+    
+    "Friends":[
+    {
+        "name":"Anar",
+        "age":23
+    },
+    {
+        "name":"Ratul",
+        "age":23
+    }
+    ]
+    },
+    
+    
+    {
+        "name":"Rabya",
+        "middleName":"null",
+        "age":3,
+        "cgpa":3.92,
+        "isRegistered":"false",
+        "languages":["Bangla","English","Hindi","Finnish"],
+    
+    "Friends":[
+    {
+        "name":"Sakib",
+        "age":20
+    },
+    {
+        "name":"Tamim",
+        "age":29
+    }
+    ]
+    }
+]
+}
